@@ -25,6 +25,7 @@ com\mycompany\pms\java\swing\web\TareaServlet.class
 com\mycompany\pms\java\swing\ui\PanelRecursos$1.class
 com\mycompany\pms\java\swing\WebMain.class
 com\mycompany\pms\java\swing\web\AuthServlet$RegistroRequest.class
+com\mycompany\pms\java\swing\web\StatusServlet.class
 com\mycompany\pms\java\swing\ui\MainFrame.class
 com\mycompany\pms\java\swing\ui\PanelTareas.class
 com\mycompany\pms\java\swing\util\Validadores.class
